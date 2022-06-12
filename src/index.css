@@ -37,11 +37,6 @@ h6 {
 /* --------------------------------- navbar css style starts 
                         -------------------------------------------------------*/
 
-
-.container{
-  padding-left: 12rem;
-  padding-right: 12rem;
-}
 .navbar-bg {
   background-color: var(--bgcolor);
   padding: 2rem 0;

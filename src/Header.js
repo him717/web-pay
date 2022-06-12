@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 
-function Header() {
+const Header = () => {
   return (
     <>
       <header>
@@ -43,7 +43,7 @@ function Header() {
         </section>
       </header>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

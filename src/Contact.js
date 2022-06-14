@@ -25,7 +25,7 @@ const Contact = () => {
 
     if (firstName && lastName && phone && email && address && message) {
       const res = fetch(
-        "https://reactfirebasewebsite-default-rtdb.firebaseio.com/userDataRecords.json",
+        "https://reactdatabase-85e81-default-rtdb.firebaseio.com/userDataRecords.json",
         {
           method: "POST",
           headers: {

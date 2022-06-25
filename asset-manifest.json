@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-pay/static/css/main.3b615022.css",
+    "main.js": "/web-pay/static/js/main.744eabda.js",
+    "index.html": "/web-pay/index.html",
+    "main.3b615022.css.map": "/web-pay/static/css/main.3b615022.css.map",
+    "main.744eabda.js.map": "/web-pay/static/js/main.744eabda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b615022.css",
+    "static/js/main.744eabda.js"
+  ]
+}

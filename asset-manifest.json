@@ -1,13 +1,13 @@
 {
-  "main.css": "/him717/web-pay/static/css/main.a513f259.chunk.css",
-  "main.js": "/him717/web-pay/static/js/main.3e016a9c.chunk.js",
-  "main.js.map": "/him717/web-pay/static/js/main.3e016a9c.chunk.js.map",
-  "static/js/1.974e4796.chunk.js": "/him717/web-pay/static/js/1.974e4796.chunk.js",
-  "static/js/1.974e4796.chunk.js.map": "/him717/web-pay/static/js/1.974e4796.chunk.js.map",
-  "runtime~main.js": "/him717/web-pay/static/js/runtime~main.c4babf7d.js",
-  "runtime~main.js.map": "/him717/web-pay/static/js/runtime~main.c4babf7d.js.map",
-  "static/css/main.a513f259.chunk.css.map": "/him717/web-pay/static/css/main.a513f259.chunk.css.map",
-  "index.html": "/him717/web-pay/index.html",
-  "precache-manifest.96c98f34f2159a59506cdd1b38a72da9.js": "/him717/web-pay/precache-manifest.96c98f34f2159a59506cdd1b38a72da9.js",
-  "service-worker.js": "/him717/web-pay/service-worker.js"
+  "main.css": "/web-pay/static/css/main.a513f259.chunk.css",
+  "main.js": "/web-pay/static/js/main.3e016a9c.chunk.js",
+  "main.js.map": "/web-pay/static/js/main.3e016a9c.chunk.js.map",
+  "static/js/1.974e4796.chunk.js": "/web-pay/static/js/1.974e4796.chunk.js",
+  "static/js/1.974e4796.chunk.js.map": "/web-pay/static/js/1.974e4796.chunk.js.map",
+  "runtime~main.js": "/web-pay/static/js/runtime~main.cad2d3fa.js",
+  "runtime~main.js.map": "/web-pay/static/js/runtime~main.cad2d3fa.js.map",
+  "static/css/main.a513f259.chunk.css.map": "/web-pay/static/css/main.a513f259.chunk.css.map",
+  "index.html": "/web-pay/index.html",
+  "precache-manifest.da2826058c39606c796d6c24f767f6e8.js": "/web-pay/precache-manifest.da2826058c39606c796d6c24f767f6e8.js",
+  "service-worker.js": "/web-pay/service-worker.js"
 }
